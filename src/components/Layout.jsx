@@ -6,9 +6,11 @@ import Skills from "./Skills";
 export default function Layout() {
     return(
         <>
-        <About/>
+       
+    <About/>
+
+      <Projects/>
         <Skills/>
-        <Projects/>
         </>
     )
 }
